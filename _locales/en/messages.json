@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Map Outlines",
+    "description": "The title of the application, displayed in the web store."
+  },
+  "appDesc": {
+    "message": "inteligent geography practice app", 
+    "description":"The description of the application, displayed in the web store."
+  }
+}
